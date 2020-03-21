@@ -1,0 +1,48 @@
+/* Polices utilisés dans h1 */
+/* Polices utilisés dans h2 */
+/* Polices utilisés dans main-menu */
+@import url('https://fonts.googleapis.com/css?family=Sen:700&display=swap');
+/* Polices utilisés dans body */
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Sen:700&display=swap');
+body {
+  font-family: 'Quicksand', sans-serif;
+  color: #2e3192;
+
+}
+
+.titre {
+  font-size: 4em;
+}
+.sous-title2 {
+  margin-top: 1em;
+}
+.project {
+color:#fff;
+margin-bottom: 0.3em;
+}
+
+.read-more {
+  color:pink;
+}
+
+.texte {
+    font-size: 20px;
+    margin-bottom: 3em;
+}
+h1 {
+  font-family: 'Sen', sans-serif;
+  font-size: 3em;
+  margin-top: 0.9em;
+  margin-bottom: 0.3em;
+}
+
+h2 {
+  font-family: 'Sen', sans-serif;
+  font-size: 2em;
+  margin-bottom: 0.75em;
+}
+
+#main-menu a {
+  font-size: 1em;
+  font-family: 'Sen', sans-serif;
+}
