@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Sen:700&display=swap');
 /* Polices utilisés dans body */
 @import url('https://fonts.googleapis.com/css?family=Quicksand|Sen:700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yantramanav&display=swap');
 body {
   font-family: 'Quicksand', sans-serif;
   color: #2e3192;
@@ -45,4 +46,12 @@ h2 {
 #main-menu a {
   font-size: 1em;
   font-family: 'Sen', sans-serif;
+}
+
+#Basic-information {
+font-family: 'Yantramanav';
+font-size: 12px;
+}
+.back {
+  font-size:20px;
 }
