@@ -31,7 +31,7 @@ margin-bottom: 0.3em;
 
 
 .texte {
-    font-size: 20px;
+    font-size: 14px;
     margin-bottom: 3em;
 }
 h1 {
@@ -47,9 +47,18 @@ h2 {
   margin-bottom: 0.75em;
 }
 
+figcaption {
+  font-size: 3em;
+  color:#fff;
+}
+
 #main-menu a {
   font-size: 1em;
   font-family: 'Sen', sans-serif;
+}
+
+#illu {
+  color:#fff;
 }
 
 #Basic-information {

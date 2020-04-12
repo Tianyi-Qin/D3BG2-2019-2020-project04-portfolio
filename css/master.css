@@ -13,6 +13,13 @@ img {
 h1 {
   margin-left: 100px;
 }
+
+footer {
+  color:#fff;
+  background-color: #2E3192;
+  padding: 50px;
+}
+
 .titre {
   margin-left: 200px;
 }
@@ -34,6 +41,7 @@ justify-content: space-around;
 
 .project2 {
 line-height: 20px;
+margin-bottom: 1em;
 }
 
 .project-feature {
@@ -54,16 +62,20 @@ text-align: center;
 
 .illustrations-feature {
   flex-basis: 640px;
-flex-shrink: 1;
-margin-bottom: 8em;
+  flex-shrink: 1;
+  margin-bottom: 8em;
 }
 
 .read-more {
-  margin-left: 118px;
-}
-
-.read-more {
+  border: solid 1px #bf2932;
   color:pink;
+  padding: 4px;
+  text-align: center;
+}
+
+.back2 {
+  margin: 10px;
+  padding: 10px;
 }
 
 #main-menu {
@@ -129,4 +141,16 @@ margin-bottom: 8em;
 }
 .sous-title2 {
   text-align: center;
+}
+#about {
+  text-align: center;
+}
+#contact {
+  height: 200px;
+  text-align: center;
+  line-height: 30px;
+}
+
+#contacth1 {
+  margin-bottom:300px;
 }
